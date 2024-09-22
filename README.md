@@ -1,2 +1,2 @@
-# flappy-bird
+# Flappy bird
 Flappy bird made in java
